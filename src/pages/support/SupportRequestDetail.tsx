@@ -77,7 +77,7 @@ const SupportRequestDetail = () => {
     },
     {
       id: '2',
-      text: 'This is such a tragic loss. I've made a donation and encourage others to help this family during this difficult time.',
+      text: "This is such a tragic loss. I've made a donation and encourage others to help this family during this difficult time.",
       createdAt: new Date('2023-04-22T14:15:00'),
       createdBy: {
         id: '5',
